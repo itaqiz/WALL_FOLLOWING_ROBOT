@@ -1,7 +1,3 @@
-Apologies for that oversight! Here's the corrected README.md file with emojis included:
-
----
-
 # ROBOTICS-PROJECT-SEM05 🤖🚀
 
 ## Introduction
